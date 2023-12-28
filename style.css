@@ -1,0 +1,23 @@
+#dica {
+	font-size: 22px;
+	text-align: center;
+	margin-top: 50px;
+  }
+  
+  #botao {
+	font-size: 20px;
+	padding: 12px 24px;
+	background-color: #fc34d0;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin: 20px auto 0;
+	display: block;
+	transition: background-color 0.3s ease; /* Adiciona uma transição suave na mudança de cor de fundo */
+  }
+  
+  #botao:hover {
+	background-color: #ff66b2; /* Altera a cor de fundo ao passar o mouse sobre o botão */
+  }
+  
