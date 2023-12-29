@@ -8,7 +8,11 @@ const dicas = [
 "Aline",
 "Alessandra",
 "Andrea",
+"Andressa",
+"Andrezza",
 "Ariana",
+"Ariane",
+"Anelise",
 "Aurora",
 "Augustina",
 "Amanda",
@@ -25,6 +29,28 @@ const dicas = [
 "Austen",
 "Helena",
 "Aline",
+
+"Cristine",
+
+"Dáfni",
+"Daíni",
+"Danúbia",
+
+"Edilaine",
+"Edilene",
+"Elisiane",
+"Elmha",
+"Eralcilene",
+"Emanuelli",
+
+"Fabiana",
+"Francielly",
+
+"Gilcélia",
+"Grazielle",
+"Joceli",
+"Jacinalva",
+"Janine",
 "Laura",
 "Maria Alice",
 "Valentina",
@@ -32,7 +58,10 @@ const dicas = [
 "Maria Clara",
 "Maria Cecília",
 "Maria Julia",
+"Lígia",
 "Sophia	",
+"Viviana",
+"Vivian",
 
 "Bia",	
   ];
